@@ -1,7 +1,7 @@
 # CoreAntiFamilyShareBan
 
+A Script for Garry's Mod!
+Let the Players banned if they're banned !
 
-##What does a Hashtag do ?
-
-![GitHub Logo](https://puu.sh/yfv1D.gif)
-Format: ![Alt Text](url)
+![Cat](https://puu.sh/yfv1D.gif)
+*Just a Cat **( ͡° ͜ʖ ͡°)***
