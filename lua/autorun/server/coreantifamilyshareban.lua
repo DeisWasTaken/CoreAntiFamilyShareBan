@@ -43,3 +43,4 @@ local function CheckFamilySharingBan(steamid64, ip, sv_password, cl_password, cl
 end
 
 hook.Add("CheckPassword", "CheckFamilySharingBan", CheckFamilySharingBan)
+--GitHub seems to be nice undso.
